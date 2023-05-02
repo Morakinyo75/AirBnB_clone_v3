@@ -1,4 +1,4 @@
-# AirBnB_clone_v3 by morakinyo75
+# AirBnB_clone_v3 by Emmanuel Akinwande and Sedenu Adams
 
 0x05. AirBnB clone - RESTful API
 Python
